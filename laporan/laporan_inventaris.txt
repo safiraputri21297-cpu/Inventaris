@@ -1,0 +1,15 @@
+LAPORAN INVENTARIS BARANG
+=========================
+
+ID: B001
+Nama: Laptop
+Kategori: Elektronik
+Stok: 10
+
+ID: B002
+Nama: Mouse
+Kategori: Aksesori
+Stok: 25
+
+Jumlah jenis barang: 2
+Total seluruh stok: 35

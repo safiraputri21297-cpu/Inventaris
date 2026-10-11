@@ -1,0 +1,2 @@
+B001|Laptop|Elektronik|10
+B002|Mouse|Aksesori|25
